@@ -1,0 +1,4 @@
+baseURL = 'http://Thuong-ironman.github.io/thephamblog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-cleanwhite'
