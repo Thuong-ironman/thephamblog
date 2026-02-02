@@ -25,7 +25,12 @@ Because life shouldn’t only be about code and papers 🙂
 11. Write my own book  
 12. Walk the Camino de Santiago ✅  
 13. Watch an Arsenal match at the Emirates Stadium ⚽  
-14. Fall in love again ✅  
+14. Fall in love (again)  
 15. Learn Italian (in progress 🇮🇹)
+16. Run a full marathon 🏃
+17. Build my own tech product 👨‍🔧
+18. Buy/Build my own home 🏡
+19. Become a father 👶
+
 
 Got suggestions? I’m always adding to the list.
